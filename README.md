@@ -1,6 +1,7 @@
-# Register, Login and Contact list
+<p><img src="src/assets/logo-new-color-site.png" alt="Compacto Records" width="350"></p>
 
-<p align="center"><img src="src/assets/logo-new-color-site.png" alt="Compacto Records" width="200"></p>
+# Register, Login and Contact list
+This is a personal study project. Only for study and reference.
 
 [View project](https://compactorecords.netlify.com)
 
@@ -34,7 +35,6 @@ npm run build --report
 
 ## Deploy Stuff
 Every merge within master branch will deploy a new website version - no need to commit /dist/ folder.
-
 This site is hosted by Netlify - the /dist/ folder is generated automatically on each push.
 
 ## License
