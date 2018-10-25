@@ -1,4 +1,4 @@
-<p><img src="src/assets/logo-new-color-site.png" alt="Compacto Records" width="350"></p>
+<p align="center"><img src="src/assets/logo-new-color-site.png" alt="Compacto Records" width="350"></p>
 
 # Register, Login and Contact list
 This is a personal study project. Only for study and reference.
