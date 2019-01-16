@@ -111,7 +111,7 @@
       username_check() {
         this.error.username = ''
         if (!this.validEmail(this.input.username)) this.error.username = 'Enter a valid e-mail address'
-        if (this.input.username === '') this.error.username = 'Enter a e-mail'
+        if (this.input.username === '') this.error.username = 'Enter an e-mail'
         return this.error.username !== ''
       },
       newUser() {
