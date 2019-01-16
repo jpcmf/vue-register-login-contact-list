@@ -9,7 +9,7 @@ This is a personal study project. Only for study and reference.
 
 ### Contact
 Joao Paulo C. M. Fricks <br />
-hire@joaolabs.tk
+jpfricks@gmail.com
 
 ### Challenge
 Create a register page and login page with password validation.
